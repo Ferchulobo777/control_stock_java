@@ -1,4 +1,4 @@
-<h1 align="center">📦 Sistema de Gestión de Productos y Pedidos - TechLab</h1>
+<h1 align="center">📦 Sistema de Gestión de Productos y Pedidos</h1>
 
 <p align="center">
   Preentrega del Proyecto | Revisión de Progreso - TFI
@@ -42,28 +42,7 @@ Este proyecto es una aplicación desarrollada en Java que permite **gestionar pr
 - Encapsulamiento, herencia y polimorfismo (opcional)
 - Excepciones (`try/catch`, `NumberFormatException`, `StockInsuficienteException`)
 - Organización por paquetes:
-  - `com.techlab.productos`
-  - `com.techlab.pedidos`
-  - `com.techlab.excepciones`
-  - `com.techlab.main`
 
----
-
-## 🏗️ Estructura del proyecto
-
-📦 src
-┣ 📂 com.techlab.main
-┃ ┗ 📜 Main.java
-┣ 📂 com.techlab.productos
-┃ ┣ 📜 Producto.java
-┃ ┣ 📜 Bebida.java (opcional)
-┃ ┗ 📜 ProductoService.java
-┣ 📂 com.techlab.pedidos
-┃ ┣ 📜 Pedido.java
-┃ ┣ 📜 LineaPedido.java
-┃ ┗ 📜 PedidoService.java
-┣ 📂 com.techlab.excepciones
-┃ ┗ 📜 StockInsuficienteException.java
 ---
 
 ## 🧪 Ejemplo del menú en consola
